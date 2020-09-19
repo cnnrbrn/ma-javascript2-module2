@@ -1,18 +1,18 @@
 const books = [
     {
-        isbn: "0-2867-2575-0",
+        isbn: "1600506460320",
         title: "Great book",
     },
     {
-        isbn: "1-9876-9548-4",
+        isbn: "1600506460373",
         title: "Ok book",
     },
     {
-        isbn: "1-6825-8790-0",
+        isbn: "1600506460521",
         title: "Bad book",
     },
     {
-        isbn: "0-1513-9241-0",
+        isbn: "1600506460456",
         title: "Terrible book",
     },
 ];
